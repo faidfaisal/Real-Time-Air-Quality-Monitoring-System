@@ -1,6 +1,7 @@
 # AK9723AJ Tuning System
 ![Hardware Setup](hardware.png)
-*Figure 1: AVR128DB48 breadboard setup with AK9723AJ CO₂ sensor (left) and SerLCD display showing live CO₂, temperature, and humidity readings.*
+
+> **Figure 1:** AVR128DB48 breadboard setup with AK9723AJ CO₂ sensor (left) and SerLCD display showing live CO₂, temperature, and humidity readings.
 ---
 
 ## Overview
