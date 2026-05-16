@@ -201,10 +201,5 @@ Flash with **MPLAB IPE**, **avrdude**, or the Curiosity Nano's on-board PKOB4 de
 
 ---
 
-## Authors
 
-**Faid Faisal** · Student ID 115810240
-**Melchai Mathew** · Student ID 115448201
 
-Section 01 — Bench 04
-ESE 476, Stony Brook University — Spring 2026
