@@ -199,6 +199,19 @@ Flash with **MPLAB IPE**, **avrdude**, or the Curiosity Nano's on-board PKOB4 de
 | USART3 baud register | `1667` → 9600 baud @ 4 MHz |
 | USART2 pin mux | `PORTMUX_USART2_ALT1_gc` (PF4/PF5) |
 
+## Conclusion
+
+This project brings together everything built across the labs into a single working system that can read, process, and display live sensor data while also allowing real-time configuration through a simple terminal interface. Starting from basic I²C communication and building up step by step, the final system feels like a complete, responsive embedded application rather than a collection of separate exercises.
+
+What makes this project interesting is how all the pieces connect — the sensor communication, the display updates, and the command interface all run together smoothly and in real time. It’s a good example of how low-level hardware control can be structured into something organized, interactive, and usable.
+
+---
+
+## Future Improvements
+
+There are a few natural directions this project could go next. Saving configuration settings so they persist after reset would make the system more practical. The sensor readings could also be calibrated more precisely for better accuracy, and the data pipeline could be optimized further using DMA or additional hardware features.
+
+
 ---
 
 
