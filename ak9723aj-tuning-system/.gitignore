@@ -1,0 +1,24 @@
+# Microchip Studio / Atmel Studio build artifacts
+*.elf
+*.hex
+*.map
+*.o
+*.d
+*.a
+Debug/
+Release/
+*.cproj.user
+*.atsln.user
+*.componentinfo.xml
+
+# avr-gcc output
+*.lss
+*.eep
+*.srec
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
