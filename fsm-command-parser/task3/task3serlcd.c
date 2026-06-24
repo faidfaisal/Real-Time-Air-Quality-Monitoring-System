@@ -2,7 +2,7 @@
  * task3serlcd.c  —  USART2 SerLCD Driver with Dual-Page Support (Task 3)
  *
  * Created: April 28, 2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal 
  *
  * Description:
  * Interrupt-driven USART2 transmit driver for the SparkFun 4×20 SerLCD.
