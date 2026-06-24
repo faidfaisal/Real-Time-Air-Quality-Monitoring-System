@@ -2,7 +2,7 @@
  * task2usart3.c  —  USART3 Interrupt-Driven Receiver (Task 2)
  *
  * Created: April 28, 2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  *
  * Configures USART3 at 9600 8N1 on PB2 (TX) / PB3 (RX).
  * Each received character is passed directly to fsm_parse().
