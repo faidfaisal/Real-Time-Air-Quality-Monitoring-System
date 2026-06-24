@@ -2,7 +2,7 @@
  * main.c  —  AK9723AJ Measurement & Display System
  *
  * Created: 4/1/2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  *
  * Description:
  * Reads raw 24-bit IR1, IR2, and 16-bit VF ADC values from the AK9723AJ
