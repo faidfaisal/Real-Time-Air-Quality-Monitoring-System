@@ -2,7 +2,7 @@
  * task3fsm.c  —  Table-driven FSM with Page-Toggle Command (Task 3)
  *
  * Created: April 28, 2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal 
  *
  * Description:
  * Extends the Task 2 FSM with a second command: P<CR> toggles the SerLCD
