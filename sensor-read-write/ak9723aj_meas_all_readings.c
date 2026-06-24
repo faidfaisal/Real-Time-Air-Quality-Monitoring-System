@@ -2,7 +2,7 @@
  * ak9723aj_meas_all_readings.c
  *
  * Created: 04/08/2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  *
  * Description:
  * Full measurement loop: initialises sensor control registers, triggers a
