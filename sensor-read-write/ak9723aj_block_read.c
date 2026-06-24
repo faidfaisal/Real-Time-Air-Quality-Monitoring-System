@@ -2,7 +2,7 @@
  * ak9723aj_block_read.c
  *
  * Created: 04/08/2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  *
  * Description:
  * Performs a block read of all 11 measurement registers (ST1, IR1, IR2,
