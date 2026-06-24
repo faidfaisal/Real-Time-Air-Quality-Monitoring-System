@@ -2,7 +2,7 @@
  * task2fsm.c  —  Table-driven FSM Command Parser (Task 2)
  *
  * Created: April 28, 2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  *
  * Description:
  * Implements a table-driven FSM that parses Cn=hh<CR> commands received
