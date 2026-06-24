@@ -2,7 +2,7 @@
  * task3_ak9723.c  —  AK9723AJ TWI Driver (Task 3)
  * Identical to Task 2 driver; separated per task for clarity.
  *
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal 
  */
 
 #include <avr/io.h>
