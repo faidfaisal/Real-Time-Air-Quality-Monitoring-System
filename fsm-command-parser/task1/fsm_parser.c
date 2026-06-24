@@ -2,7 +2,7 @@
  * fsm_parser.c  —  Lab 12 Task 1: Switch-Case FSM Command Parser
  *
  * Created: April 28, 2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  *
  * Description:
  * Receives characters from a terminal via USART3 interrupts and uses a
