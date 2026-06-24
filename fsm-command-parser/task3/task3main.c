@@ -2,7 +2,7 @@
  * task3main.c  —  Lab 12 Task 3 Main Loop
  *
  * Created: April 28, 2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  *
  * Description:
  * Main loop for the full AK9723AJ tuning system. Continuously reads sensor
