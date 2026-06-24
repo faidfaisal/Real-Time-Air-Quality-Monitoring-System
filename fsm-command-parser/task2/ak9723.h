@@ -1,7 +1,7 @@
 /*
  * ak9723.h  —  AK9723AJ sensor driver header (Task 2)
  *
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal 
  * Created: 4/22/2026
  */
 
