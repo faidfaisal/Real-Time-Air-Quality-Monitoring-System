@@ -2,7 +2,7 @@
  * ak9723aj_byte_write.c
  *
  * Created: 04/08/2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal 
  *
  * Description:
  * Initializes TWI (I2C) on the AVR128DB48 and performs byte-write operations
