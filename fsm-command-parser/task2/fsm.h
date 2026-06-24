@@ -1,7 +1,7 @@
 /*
  * fsm.h  —  Table-driven FSM interface (Task 2)
  *
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  * Created: April 28, 2026
  *
  * Parses terminal commands of the form  Cn=hh<CR>
