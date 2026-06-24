@@ -2,7 +2,7 @@
  * ak9723aj_twi.c
  *
  * Created: 4/1/2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  *
  * Description:
  * Initializes the AVR TWI (I2C) interface and communicates with the AK9723AJ
