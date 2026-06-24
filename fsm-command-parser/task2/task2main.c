@@ -2,7 +2,7 @@
  * task2main.c  —  Lab 12 Task 2 Main Loop
  *
  * Created: April 28, 2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  *
  * Description:
  * Main control loop: continuously acquires AK9723AJ sensor readings and
