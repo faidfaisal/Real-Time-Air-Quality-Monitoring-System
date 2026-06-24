@@ -2,7 +2,7 @@
  * ak9723aj_byte_read.c
  *
  * Created: 4/1/2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal 
  *
  * Description:
  * Reads multiple registers from the AK9723AJ sensor in a loop using a
