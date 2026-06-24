@@ -2,7 +2,7 @@
  * ak9723aj_ctrl_read.c
  *
  * Created: 4/1/2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal 
  *
  * Description:
  * Reads 10 control registers (CNTL1–CNTL10, addresses 0x0F–0x18) from the
