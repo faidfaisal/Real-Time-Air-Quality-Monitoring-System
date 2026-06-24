@@ -2,7 +2,7 @@
  * task3usart3.c  —  USART3 Interrupt-Driven Receiver (Task 3)
  *
  * Created: April 28, 2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal 
  */
 
 #define F_CPU 4000000UL
