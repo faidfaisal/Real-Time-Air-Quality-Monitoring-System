@@ -2,7 +2,7 @@
  * task2_ak9723.c  —  AK9723AJ TWI Driver (Task 2)
  *
  * Created: 4/22/2026
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal 
  *
  * Description:
  * Low-level TWI (I²C) master driver for the AK9723AJ CO₂ sensor.
