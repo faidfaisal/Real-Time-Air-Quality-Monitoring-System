@@ -1,7 +1,7 @@
 /*
  * serlcd.h  —  SerLCD USART2 driver header (Task 3)
  *
- * Authors: Faid Faisal & Melchai Mathew
+ * Authors: Faid Faisal
  * Created: April 28, 2026
  */
 
