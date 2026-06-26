@@ -215,4 +215,10 @@ There are a few natural directions this project could go next. Saving configurat
 ---
 
 
+## Author
+**Faid Faisal** — [faidfaisal1@gmail.com](mailto:faidfaisal1@gmail.com)
+
+---
+
+
 
