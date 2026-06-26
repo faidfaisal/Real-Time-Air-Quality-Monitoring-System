@@ -212,7 +212,5 @@ What makes this project interesting is how all the pieces connect — the sensor
 There are a few natural directions this project could go next. Saving configuration settings so they persist after reset would make the system more practical. The sensor readings could also be calibrated more precisely for better accuracy, and the data pipeline could be optimized further using DMA or additional hardware features.
 
 
----
-
 
 
